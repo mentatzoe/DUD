@@ -11,3 +11,19 @@
 /*.userprefs
 /*.pidb
 /*.booproj
+
+#Gitignore from http://t-machine.org/index.php/2012/07/03/unity-git-source-control-a-basic-gitignore/
+
+# OS X only (not needed on other platforms)
+.DS_Store
+*.swp
+*.Trashes
+
+# All platforms
+Library
+Temp
+*.csproj
+*.pidb
+*.unityproj
+*.sln
+*.userprefs
